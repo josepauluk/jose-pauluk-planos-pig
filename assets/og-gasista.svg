@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Jose Pauluk, planos PIG y gestión de gas</title>
+  <desc id="desc">Tarjeta azul con dibujo técnico de una vivienda y servicios de planos PIG en Calamuchita.</desc>
+  <defs><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#fff" stroke-opacity=".06"/></pattern></defs>
+  <rect width="1200" height="630" fill="#0b2239"/><rect width="1200" height="630" fill="url(#grid)"/>
+  <rect x="72" y="66" width="56" height="56" rx="14" fill="#f5a623"/><text x="100" y="102" text-anchor="middle" font-family="Arial,sans-serif" font-size="19" font-weight="800" fill="#0b2239">JP</text>
+  <text x="72" y="202" font-family="Arial,sans-serif" font-size="19" font-weight="800" letter-spacing="3" fill="#f5a623">DOCUMENTACIÓN TÉCNICA</text>
+  <text x="72" y="284" font-family="Arial,sans-serif" font-size="64" font-weight="800" fill="#fff">Planos PIG</text><text x="72" y="352" font-family="Arial,sans-serif" font-size="64" font-weight="800" fill="#fff">con criterio de obra.</text>
+  <text x="75" y="414" font-family="Arial,sans-serif" font-size="24" fill="#fff" fill-opacity=".7">Relevamiento · AutoCAD · Inspección técnica</text>
+  <text x="75" y="535" font-family="Arial,sans-serif" font-size="22" font-weight="700" fill="#f5a623">Jose Pauluk</text><text x="75" y="568" font-family="Arial,sans-serif" font-size="18" fill="#fff" fill-opacity=".6">Villa General Belgrano · Calamuchita</text>
+  <g transform="translate(720 90)"><rect width="400" height="450" rx="8" fill="#faf8f1" stroke="#fff" stroke-width="8"/><path d="M35 80H365V390H35Zm0 150h210M245 80v310M245 290h120" fill="none" stroke="#0b2239" stroke-width="4"/><path d="M65 360V260h110V130h105v80h68" fill="none" stroke="#f5a623" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/><circle cx="65" cy="360" r="9" fill="#0b2239" stroke="#f5a623" stroke-width="4"/><circle cx="175" cy="260" r="8" fill="#0b2239" stroke="#f5a623" stroke-width="4"/><circle cx="348" cy="210" r="8" fill="#0b2239" stroke="#f5a623" stroke-width="4"/><text x="34" y="48" font-family="Arial,sans-serif" font-size="22" font-weight="800" fill="#0b2239">P.I.G.</text><text x="280" y="48" font-family="Arial,sans-serif" font-size="12" font-weight="700" fill="#0b2239">VIVIENDA</text></g>
+</svg>
