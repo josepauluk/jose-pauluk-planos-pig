@@ -11,7 +11,7 @@ Landing estática preparada para publicación gratuita. No requiere servidor, ba
 
 ## Publicación sugerida
 
-El sitio puede alojarse sin costo en Cloudflare Pages, igual que `josepauluk.pages.dev`. La carpeta completa es el contenido del sitio; `index.html` es la portada.
+El sitio está publicado sin costo en Cloudflare Pages: `https://jose-pauluk-planos-pig.pages.dev/`. La carpeta `dist` contiene los archivos de la versión pública.
 
 ## Datos a confirmar antes del lanzamiento
 
